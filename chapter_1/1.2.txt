@@ -1,0 +1,9 @@
+1.2.
+
+if the new list is two times the size from the last list (128 numbers),
+then the new list will have 256 numbers.
+
+then, log2 256 = steps.
+
+well, 2 elevated to 8 is 256.
+so, 8 is the maximum number of steps to find a number in a list with 256 numbers.
