@@ -1,0 +1,9 @@
+1.1.
+
+log2 n, knowing that n is the amount of numbers in the list. 
+so, if we have a list with 128 numbers, it will be log2 128 = steps.
+
+2 elevated to which number is 128? 7.
+
+so, for the binary search, 
+we will need the maximum of 7 steps to find the desired element.
