@@ -1,0 +1,7 @@
+1.5.
+
+if I need to read all the persons in a phone book,
+reading their numbers, then the runtime is O(n) too,
+because I have to check each entry.
+
+"n" is the amount of entries in the phone book.

@@ -1,0 +1,8 @@
+1.4.
+
+if I need to find the owner from a phone number,
+searching from the start of the phone book to the end of it,
+then the runtime time for this algorithm is O(n),
+since I have to check every entry.
+
+"n" is the amount of items in the phone book.
