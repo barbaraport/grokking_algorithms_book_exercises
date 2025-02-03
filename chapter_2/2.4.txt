@@ -1,0 +1,7 @@
+2.4.
+
+the disadvantage of using an array to store the users
+is that they would be added to the end of it.
+and to search in an array, it needs to be sorted.
+
+so, every time that an user is added, the array needs to be reordered.

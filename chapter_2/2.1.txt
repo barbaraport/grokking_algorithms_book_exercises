@@ -1,0 +1,6 @@
+2.1.
+
+considering that each expense is an item,
+I would choose the list to build the app,
+because I wouldn't know how many items I would store.
+some days, I wouldn't even add anything to the list.

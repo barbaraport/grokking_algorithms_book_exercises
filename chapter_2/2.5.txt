@@ -1,0 +1,12 @@
+2.5.
+
+the linked lists array, an hybrid data structure,
+for searches:
+- is slower than an array, because inside of each index it has a list,
+which is slower to searches. I directly access the letter index (z is 26, for example),
+and inside of it, there are less items to do the search. but those items are in a list,
+so it will iterate over all the items to find the middle index and do the binary search.
+
+for insertions
+- is faster than an array, because I directly enter in the letter index
+and add the item inside the list, updating the previous and the next indexes.

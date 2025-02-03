@@ -1,0 +1,6 @@
+2.3.
+
+I would use an array,
+because I have more searches than writings/readings.
+also, I would need imediate access to certain indexes.
+that's why I would choose arrays in first place.
