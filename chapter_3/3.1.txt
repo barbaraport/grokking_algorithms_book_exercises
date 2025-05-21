@@ -1,0 +1,6 @@
+3.1.
+
+the greet function will be executed.
+then, the greet2 function will be called. after this,
+all internal variables from greet2 will be freed.
+then, when finished, greet function variables will be freed.
