@@ -1,0 +1,14 @@
+1.6.
+
+so... this one I read the answer, but I still need to process it to truly understand.
+
+but, basically, what I initially thought was that:
+
+I have a sorted list, so the letter A would be in the initial indexes.
+I could simply check if the word starts with A,
+and, for the other letters, just stop the execution.
+if the letter A just doesn't exist, then I can stop the execution too.
+
+if I had to use the binary search,
+I would find the first word with A O(log2 n) and then check the next items O(n),
+which would mix both types of search.
