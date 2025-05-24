@@ -1,0 +1,6 @@
+4.4.
+
+binary search:
+- base case: a list with one item, that may match what you are searching for
+- recursive case: if the list still have items,
+get the middle of it and check the desired value
