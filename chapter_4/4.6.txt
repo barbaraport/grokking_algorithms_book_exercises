@@ -1,0 +1,4 @@
+4.6.
+
+To duplicate each element from an array,
+it would take O(n) because I need to pass once through each element.

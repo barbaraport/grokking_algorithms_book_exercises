@@ -1,0 +1,4 @@
+4.5.
+
+To print each value from an array,
+it would take O(n) because I need to pass through each element once.

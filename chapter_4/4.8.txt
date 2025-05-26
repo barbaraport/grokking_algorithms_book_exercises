@@ -1,0 +1,12 @@
+4.8.
+
+To create an multiplication table, as the questions says,
+I need to iterate over each element to multiply it. 
+
+Said that, it will take O(n^2) to complete the table creation,
+because I iterate over each number, and inside of each iteration I
+iterate all over again.
+
+For example:
+[1, 2, 3] -> 1*1, 1*2, 1*3, 2*1, 2*2, 2*3, 3*1, 3*2, 3*3 -> 9 times -> n items in array = 3 -> n^2 = 9
+[2, 4] -> 2*2, 2*4, 4*2, 4*4, -> 4 times -> n items in array = 2 -> n^2 = 4

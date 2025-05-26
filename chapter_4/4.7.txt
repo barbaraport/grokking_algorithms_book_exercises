@@ -1,0 +1,5 @@
+4.7.
+
+To duplicate just the first item from an array,
+it could take O(1), because I don't need to iterate
+over the entire array to do this. I just get the first and duplicate it.
