@@ -1,0 +1,4 @@
+5.4.
+
+consistent, because the word's length is fixed.
+so, it is going to return the same value, always.

@@ -1,0 +1,3 @@
+5.1.
+
+consistent, because it will always return 1.

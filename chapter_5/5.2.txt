@@ -1,0 +1,4 @@
+5.2.
+
+inconsistent, because the rand() function is going to
+return a random number in every execution.
